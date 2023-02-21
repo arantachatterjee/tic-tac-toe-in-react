@@ -2,9 +2,7 @@
 
 The classic Tic Tac Toe game built using React.
 
-<video width="500" height="300" controls>
-  <source src="Preview.mov" type="video/mp4">
-</video>
+<img src="Preview.png" width="450" height="300">
 
 ## Getting Started with Create React App
 
